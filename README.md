@@ -33,9 +33,6 @@ Project_1/
 │
 ├── TestLocators
 | └── locators.py
-|
-├── Utilities/                                           # Utility/helper modules
-│ └── excel_functions.py
 │
 ├── Reports/                                             # Test execution reports (HTML / Allure)
 │
