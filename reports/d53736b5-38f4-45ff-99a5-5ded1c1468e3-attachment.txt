@@ -1,0 +1,2 @@
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:85 Validating Dobby assistant
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:88 Dobby assistant is present on the page

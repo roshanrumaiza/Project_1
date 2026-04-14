@@ -1,0 +1,2 @@
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:35 Validating the title of the webpage
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:39 The title has been validated

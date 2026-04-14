@@ -1,0 +1,2 @@
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:143 Validating the login with valid credentials
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:148 Login is successful

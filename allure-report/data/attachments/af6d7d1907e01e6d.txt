@@ -1,0 +1,2 @@
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:83 Validating Sign_in Via Sign_Up
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:89 Sign_in Via Sign_up is validated

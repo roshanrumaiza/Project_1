@@ -1,0 +1,6 @@
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:143 Validating the login with valid credentials
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:151 Unable to login due toLogin is not successful
+assert 'HCL GUVI | Login' == 'HCL GUVI | L...tive language'
+  
+  [0m[91m- HCL GUVI | Learn to code in your native language[39;49;00m[90m[39;49;00m
+  [92m+ HCL GUVI | Login[39;49;00m[90m[39;49;00m

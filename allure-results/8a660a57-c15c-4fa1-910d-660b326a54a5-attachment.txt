@@ -1,0 +1,2 @@
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:100 Validate the menu items
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:104 The menu items like Courses, LIVE Classes, and Practice are displayed and accessible

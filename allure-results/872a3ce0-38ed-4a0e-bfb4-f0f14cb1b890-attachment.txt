@@ -1,0 +1,6 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\147.0.7727.56\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:21 validating the Url {https://www.guvi.in}
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:25 The URL:{https://www.guvi.in} loaded successfully

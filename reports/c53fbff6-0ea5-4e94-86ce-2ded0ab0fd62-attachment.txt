@@ -1,0 +1,2 @@
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:127 Validating the login with invalid credentials
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:132 The error message displayed correctly with invalid credentials

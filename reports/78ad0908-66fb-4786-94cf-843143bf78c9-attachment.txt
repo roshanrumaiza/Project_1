@@ -1,0 +1,2 @@
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:39 validating the login button
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:45 Login button is visible and clickable

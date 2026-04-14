@@ -1,0 +1,2 @@
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:117 validating the logout
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:121 Logout is successful

@@ -1,0 +1,2 @@
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:67 validating the Sign_Up button
+[32mINFO    [0m test_project1_execution:test_project1_execution.py:73 Sign_up button is visible and clickable
